@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and fitness 
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach contact farhanakthar99@gmail.com
+- 📫 How to reach : mail to farhanakthar99@gmail.com
 - 😄 Pronouns: farhan  
 - ⚡ Fun fact: 
 
