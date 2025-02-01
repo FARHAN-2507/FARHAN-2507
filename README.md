@@ -38,8 +38,8 @@
 ---
 
 ### 🌎 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-farhan-505334325/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)]([https://yourportfolio.com](https://portfolio-farhan250702.netlify.app/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-farhan-505334325/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://portfolio-farhan250702.netlify.app/)  
 
 ---
 
