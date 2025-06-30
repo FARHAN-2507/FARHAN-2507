@@ -1,5 +1,5 @@
 # 👋 Hi, I'm FARHAN-2507  
-### 💻 Developer | 🏋️ Fitness Enthusiast | 🚀 MERN Stack Learner  
+### 💻 Developer | 🏋️ Fitness Enthusiast | 🚀 MERN Stack   
 
 ---
 
@@ -39,7 +39,7 @@
 
 ### 🌎 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-farhan-505334325/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://portfolio-farhan250702.netlify.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://farhan250702-portfolio.netlify.app/)  
 
 ---
 
